@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+list_title: Projects
 ---
+# Hello. I'm David Song.
+### I'm a student studying computer science in the Allen School at the University of Washington. I'd love to get in touch with you!
